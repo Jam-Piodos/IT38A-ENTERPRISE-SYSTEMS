@@ -104,3 +104,8 @@ D.3. Future Research Opportunities
 Researchers can study how smart AI systems help businesses. They can also
 look at how different industries use ERP systems. Another area to explore 
 is how cloud-based ERPs can reduce failure rates.
+
+E. References
+
+* https://www.netsuite.com/portal/resource/articles/erp/erp-implementation-case-study.shtml
+* https://www.spinnakersupport.com/blog/2023/12/13/erp-implementation-failure/#:~:text=1.,over%20%24100%20million%20in%20losses.
