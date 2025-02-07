@@ -65,21 +65,42 @@ You can access the table presentation in this link:
 
 C.2. Key Takeaways & Lessons Learned
 
-C.2.1. What the Successful Case Did Right
+C.2.1. What did the successful case do right?
 
 * Worked with a skilled team for a custom setup.
 * Took time for testing and training.
 * Aligned the system with business needs.
 
-C.2.2. What Went Wrong in the Failed Case
+C.2.2. What went wrong in the failed case?
 
 * Rushed setup led to errors.
 * Launched during peak season.
 * Introduced too many systems at once.
 
-C.2.3. How to Avoid Similar Failures
+C.2.3. How can future implementations avoid similar failures?
 
 * Plan a realistic timeline.
 * Test thoroughly before launch.
 * Roll out changes in steps.
 * Train employees properly before going live.
+
+D. Insights and Recommendation
+
+D.1. Best Practices for Successful Enterprise System Implementation
+
+Before picking a system, check what the business really needs. The
+system should be flexible so it can grow with the company. Work with
+a good team to set it up properly and train employees well. Doing
+things step by step prevents big problems.
+
+D.2. Strategies to Avoid Failure
+
+Don’t rush the process or set unrealistic deadlines. Test the system a
+lot before using it to find and fix mistakes. Start during a slow season
+to avoid problems. Keep supporting employees after the system starts.
+
+D.3. Future Research Opportunities
+
+Researchers can study how smart AI systems help businesses. They can also
+look at how different industries use ERP systems. Another area to explore 
+is how cloud-based ERPs can reduce failure rates.
