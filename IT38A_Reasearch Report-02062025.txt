@@ -55,3 +55,31 @@ B.4. Outcomes and Consequences
 * They lost $150 million in one quarter of 1999.
 * Their stock price fell 8%.
 * News outlets like the Wall Street Journal reported on the failure.
+
+C. Comparative Analysis
+
+C.1. Table Presentation
+
+You can access the table presentation in this link:
+
+
+C.2. Key Takeaways & Lessons Learned
+
+C.2.1. What the Successful Case Did Right
+
+* Worked with a skilled team for a custom setup.
+* Took time for testing and training.
+* Aligned the system with business needs.
+
+C.2.2. What Went Wrong in the Failed Case
+
+* Rushed setup led to errors.
+* Launched during peak season.
+* Introduced too many systems at once.
+
+C.2.3. How to Avoid Similar Failures
+
+* Plan a realistic timeline.
+* Test thoroughly before launch.
+* Roll out changes in steps.
+* Train employees properly before going live.
