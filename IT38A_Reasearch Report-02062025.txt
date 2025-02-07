@@ -28,3 +28,30 @@ A.4. Outcomes and Impact
 * They could see stock levels in real time.
 * They handled consignment sales better, so one person did what used to take two.
 * Customer service got better because they used CRM data.
+
+B. Hershey
+
+B.1. About Hershey Company
+
+Hershey is a big chocolate company. They wanted a new system before Y2K to make things
+run smoother and to help their supply chain. But things didn’t go well.
+
+B.2. Implementation Process & Challenges
+
+They tried to do it too fast. Instead of 48 months, they only took 30. They didn’t test
+enough, so there were problems. They also went live during Halloween, their busiest time.
+Plus, they put in three big systems at once—SAP R/3 ERP, Manugistics SCM, and Siebel CRM 
+which made things worse.
+
+B.3. Key Failure Factors
+
+* They rushed and didn’t have enough time.
+* Workers didn’t get enough training.
+* They put too many new things in at once.
+
+B.4. Outcomes and Consequences
+
+* They lost $100 million in sales.
+* They lost $150 million in one quarter of 1999.
+* Their stock price fell 8%.
+* News outlets like the Wall Street Journal reported on the failure.
