@@ -61,7 +61,7 @@ C. Comparative Analysis
 C.1. Table Presentation
 
 You can access the table presentation in this link:
-
+https://jam-piodos.github.io/com-anal-table/
 
 C.2. Key Takeaways & Lessons Learned
 
