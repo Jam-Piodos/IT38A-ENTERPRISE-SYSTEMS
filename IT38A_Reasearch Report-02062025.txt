@@ -1,0 +1,30 @@
+Enterprise System Success vs. Failure: Ronin Gallery & Hershey Case Studies
+------------------------------------------------------------------------------
+
+A. Ronin Gallery
+
+A.1. About Ronin Gallery
+
+Ronin Gallery is a big art store with lots of Japanese prints.
+Before, they used paper and QuickBooks to keep track of things.
+They wanted one system to do everything, like selling online and
+managing stock, so they got an ERP system.
+
+A.2. Implementation
+
+Ronin Gallery picked NetSuite ERP. The NetSuite team helped set
+it up to fit the business. They made sure everything worked right
+and gave advice.
+
+A.3. Key success factors
+
+* The NetSuite team helped a lot.
+* The system was changed to fit the business.
+* Workers got good training.
+
+A.4. Outcomes and Impact
+
+* Workers did more in less time, and the shop had 50 shows a year with only 4 people.
+* They could see stock levels in real time.
+* They handled consignment sales better, so one person did what used to take two.
+* Customer service got better because they used CRM data.
