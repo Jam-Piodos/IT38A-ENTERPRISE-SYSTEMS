@@ -1,0 +1,111 @@
+Enterprise System Success vs. Failure: Ronin Gallery & Hershey Case Studies
+------------------------------------------------------------------------------
+
+A. Ronin Gallery
+
+A.1. About Ronin Gallery
+
+Ronin Gallery is a big art store with lots of Japanese prints.
+Before, they used paper and QuickBooks to keep track of things.
+They wanted one system to do everything, like selling online and
+managing stock, so they got an ERP system.
+
+A.2. Implementation
+
+Ronin Gallery picked NetSuite ERP. The NetSuite team helped set
+it up to fit the business. They made sure everything worked right
+and gave advice.
+
+A.3. Key success factors
+
+* The NetSuite team helped a lot.
+* The system was changed to fit the business.
+* Workers got good training.
+
+A.4. Outcomes and Impact
+
+* Workers did more in less time, and the shop had 50 shows a year with only 4 people.
+* They could see stock levels in real time.
+* They handled consignment sales better, so one person did what used to take two.
+* Customer service got better because they used CRM data.
+
+B. Hershey
+
+B.1. About Hershey Company
+
+Hershey is a big chocolate company. They wanted a new system before Y2K to make things
+run smoother and to help their supply chain. But things didn’t go well.
+
+B.2. Implementation Process & Challenges
+
+They tried to do it too fast. Instead of 48 months, they only took 30. They didn’t test
+enough, so there were problems. They also went live during Halloween, their busiest time.
+Plus, they put in three big systems at once—SAP R/3 ERP, Manugistics SCM, and Siebel CRM 
+which made things worse.
+
+B.3. Key Failure Factors
+
+* They rushed and didn’t have enough time.
+* Workers didn’t get enough training.
+* They put too many new things in at once.
+
+B.4. Outcomes and Consequences
+
+* They lost $100 million in sales.
+* They lost $150 million in one quarter of 1999.
+* Their stock price fell 8%.
+* News outlets like the Wall Street Journal reported on the failure.
+
+C. Comparative Analysis
+
+C.1. Table Presentation
+
+You can access the table presentation in this link:
+https://jam-piodos.github.io/com-anal-table/
+
+C.2. Key Takeaways & Lessons Learned
+
+C.2.1. What did the successful case do right?
+
+* Worked with a skilled team for a custom setup.
+* Took time for testing and training.
+* Aligned the system with business needs.
+
+C.2.2. What went wrong in the failed case?
+
+* Rushed setup led to errors.
+* Launched during peak season.
+* Introduced too many systems at once.
+
+C.2.3. How can future implementations avoid similar failures?
+
+* Plan a realistic timeline.
+* Test thoroughly before launch.
+* Roll out changes in steps.
+* Train employees properly before going live.
+
+D. Insights and Recommendation
+
+D.1. Best Practices for Successful Enterprise System Implementation
+
+Before picking a system, check what the business really needs. The
+system should be flexible so it can grow with the company. Work with
+a good team to set it up properly and train employees well. Doing
+things step by step prevents big problems.
+
+D.2. Strategies to Avoid Failure
+
+Don’t rush the process or set unrealistic deadlines. Test the system a
+lot before using it to find and fix mistakes. Start during a slow season
+to avoid problems. Keep supporting employees after the system starts.
+
+D.3. Future Research Opportunities
+
+Researchers can study how smart AI systems help businesses. They can also
+look at how different industries use ERP systems. Another area to explore 
+is how cloud-based ERPs can reduce failure rates.
+
+E. References
+
+* https://www.netsuite.com/portal/resource/articles/erp/erp-implementation-case-study.shtml
+* https://www.spinnakersupport.com/blog/2023/12/13/erp-implementation-failure/#:~:text=1.,over%20%24100%20million%20in%20losses.
